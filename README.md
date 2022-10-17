@@ -1,5 +1,5 @@
 Olá! Sou Aline Flores 👋
 
 
--🌱 Estudando...
+-🌱 Estudando e aprendendo PHP, HTML, CSS, JavaScript, React 🌱
 
